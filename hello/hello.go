@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/rizkyramadhanch/GoExercise/greetings"
+	greetings "github.com/rizkyramadhanch/GoExercise/greetings"
 )
 
 func main() {
