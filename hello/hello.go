@@ -3,8 +3,7 @@ package main
 import (
 	"fmt"
 
-	// "rsc.io/quote"
-	greetings "github.com/rizkyramadhanch/GoExercise"
+	"github.com/rizkyramadhanch/GoExercise/greetings"
 )
 
 func main() {
